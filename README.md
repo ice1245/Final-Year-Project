@@ -1,3 +1,20 @@
+We have tested this code using:
+
+* Ubuntu 18.04
+* Python 3.8
+* CUDA 10.1
+* CUDNN 7.6.5
+
+First install PyTorch according to the directions at the
+[PyTorch Website](https://pytorch.org/get-started/) for your operating system
+and CUDA setup.
+
+Then, navigate to the `fastmri` root directory and run
+
+```bash
+pip install -e .
+```
+
 To start training the model, This code is only working for single coil right now. runs:
 
 ```bash
