@@ -1,0 +1,8 @@
+numpy
+scikit_image
+torchvision
+torch
+runstats
+pytorch_lightning
+h5py
+PyYAML
